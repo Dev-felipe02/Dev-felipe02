@@ -36,5 +36,5 @@
 
 <h2>🌐 Vamos conectar?</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin%-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/felipenegreiros-)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/felipenegreiros-)
 [![Email](https://img.shields.io/badge/-Entre+em+contato-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:negreirosfelipe337@gmail.com)
