@@ -8,6 +8,12 @@
 <li>👨🏼‍🎓 Apaixonado por tecnologia e em constante evolução, sempre em busca de aprender e crescer na área.</li>
 <li>🛠️ Trabalho com **JavaScript, React, C#, Python, HTML, CSS, Figma, MySQL e SQLServer**.</li>
 <li>💡 Com foco em desenvolvimento web, busco criar aplicações eficientes e escaláveis, sempre alinhadas às boas práticas.</li>
-<li>🤝 Acredito no poder da colaboração, da comunidade tech e no impacto do código aberto.
-</li>
+<li>🤝 Acredito no poder da colaboração, da comunidade tech e no impacto do código aberto.</li>
 </ul>
+
+<hr>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-felipe2&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-felipe2&theme=tokyonight" alt="GitHub Streak" />
+</p>
