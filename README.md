@@ -14,6 +14,6 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-felipe02&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-felipe02&theme=tokyonight" alt="GitHub Streak" />
+  <img hegth="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-felipe02&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img hegth="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-felipe02&theme=tokyonight" alt="GitHub Streak" />
 </p>
