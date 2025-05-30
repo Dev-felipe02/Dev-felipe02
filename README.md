@@ -32,4 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
 </p>
 
+<hr>
+
 <h2>🌐 Vamos conectar?</h2>
+
+[![LinkedIn](https://img.shields.io/badge/-Felipe%20Negreiros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://)
+[![Email](https://img.shields.io/badge/-Entre+em+contato-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:negreirosfelipe337@gmail.com)
